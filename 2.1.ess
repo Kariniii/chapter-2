@@ -1,0 +1,5 @@
+start
+new num number
+set num 2 + 2
+log string "2 + 2 = ">>num
+finish
