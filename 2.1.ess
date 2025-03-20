@@ -1,5 +1,9 @@
 start
+new a number
+set a 2
+new b number
+set b 2
 new num number
-set num 2 + 2
-log string "2 + 2 = ">>num
+set num a + b
+log string a>>" + ">>b>>" = ">>num
 finish
